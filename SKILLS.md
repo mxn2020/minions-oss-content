@@ -1,6 +1,12 @@
 ---
 name: minions-oss-content
-description: Blog post drafts, README updates, social announcements, and demo scripts
+id: OC-0135
+version: 1.0.0
+description: "Blog post drafts, README updates, social announcements, and demo scripts"
+category: cloud
+subcategory: oss
+tags: ["minion", "cloud", "oss"]
+comments:
 ---
 
 # minions-oss-content — Agent Skills
