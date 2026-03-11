@@ -1,0 +1,8 @@
+name: "@minions-oss-content/cli"
+project_scope: child
+child_type: cli
+parent_project: minions-oss-content-workspace
+description: "CLI for minions-oss-content — Blog post drafts, README updates, social announcements, and demo scripts"
+priority: high
+deploy_url: null
+tags: null

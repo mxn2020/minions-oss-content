@@ -1,0 +1,8 @@
+name: "@minions-oss-content/sdk"
+project_scope: child
+child_type: sdk
+parent_project: minions-oss-content-workspace
+description: "Blog post drafts, README updates, social announcements, and demo scripts"
+priority: high
+deploy_url: null
+tags: null

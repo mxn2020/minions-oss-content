@@ -1,0 +1,15 @@
+name: minions-oss-content-workspace
+project_scope: main
+project_type: monorepo
+description: "Blog post drafts, README updates, social announcements, and demo scripts"
+tier: idea
+lane: minions
+priority: medium
+oss: true
+stack: [typescript]
+repo: "https://github.com/mxn2020/minions-oss-content"
+deploy_url: null
+last_active: 2026-02-23
+tags: [minion, toolbox, ai-agent, automation, minions, oss, content]
+notes: null
+id: c4d61510-a1db-4670-ba3c-a3720fd8b765
