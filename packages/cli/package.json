@@ -1,6 +1,6 @@
 {
   "name": "@minions-oss-content/cli",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "CLI for minions-oss-content — Blog post drafts, README updates, social announcements, and demo scripts",
   "license": "MIT",
   "repository": {

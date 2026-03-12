@@ -1,6 +1,6 @@
 {
   "name": "@minions-oss-content/sdk",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Blog post drafts, README updates, social announcements, and demo scripts",
   "type": "module",
   "main": "./dist/index.js",
